@@ -10,8 +10,8 @@ if __name__ == '__main__':
     date: Fecha inicio
     '''
     json={"answers":{
-            "name":"Frans Ramirez Neyra",
-            "status7":"5","text99":"Solquim",
+            "name":"Pepito",
+            "status7":"5","text99":"Proyecto",
             "numbers":"45",
             "date2":"2018-12-27",
             "date":"2018-12-24"}}
